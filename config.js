@@ -2,7 +2,7 @@ const nameGirl = 'Đánh nhau không  ';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'NHUNG  ';
 const titleCard = 'ảnh con heo ';
-const contentCard = 'ảnh heo  ';
+const contentCard = '>< ';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
